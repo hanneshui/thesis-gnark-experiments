@@ -1,1 +1,1 @@
-# GNARK Experiments for the Bachelor Thesis from Hannes Hui
+# GNARK Experiments for the Bachelor Thesis of Hannes Hui
